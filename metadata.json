@@ -1,0 +1,6 @@
+{
+  "name": "OphthalmicOptics CAD for Blender",
+  "description": "Scientific ophthalmic lens CAD, optical physics simulator and Blender Add-on generator for high-precision eyeglass lens design and photorealistic spectral raytracing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
